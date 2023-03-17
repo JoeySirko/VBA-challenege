@@ -13,5 +13,3 @@ The total stock volume of the stock. The result should match the following image
 Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
 
 Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year) at once.
-
-I couldn't figure out the greatest increase % and decrease %. This one was tricky for me. 
